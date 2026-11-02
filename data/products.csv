@@ -1,0 +1,826 @@
+product_id,sku,product_name,category,price,supplier,status
+1,SKU-00001,Classic Sunscreen,beauty,70.96,ACME Ltd,DISCONTINUED
+2,SKU-00002,Premium Bike Light,Sports,43.04 GBP,northwind,DISCONTINUED
+3,sku00003,Pro Novel,Books,25.98,Globex,discontinued
+4,SKU-00004,Deluxe Keyboard,Elec.,233.97,northwind,inactive
+5,SKU-00005,Classic Cookbook,Books,21.51 GBP,ACME Ltd,inactive
+6,sku00006,Basic Atlas,books,106.13 GBP,,Active
+7,SKU-00007,Pro Moisturiser,Beauty,34.69,Acme,discontinued
+8,SKU-00008,Vintage Headphones,electronics,,Globex,
+9,SKU-00009,Ultra Face Mask,Beauty,70.80,acme,active
+10,SKU-00010,Mini Bike Light,sport,97.30,acme,
+11,sku00011,Mini Bike Light,Sports,57.05,Acme,active
+12,SKU-00012,Classic Trainers,Clothing,49.88,,
+13,SKU-00013,CLASSIC NOVEL,Books,69.33,,inactive
+14,SKU-00014,Deluxe Socks,Clothing,61.05,,Active
+15,sku00015,Ultra Atlas,Book,53.44,,inactive
+16,SKU-00016,Basic Face Mask,Beauty,,,DISCONTINUED
+17,sku00017,Basic Scarf,Apparel,91.58,Initech,active
+18,SKU-00018,Eco Mouse,Electronics,"80,01",Initech,Active
+19,SKU-00019,Pro Mug Set,Home & Kitchen,55.14,Acme,discontinued
+20,SKU-00020,Pro Speaker,Electronics,£399.74,Globex,active
+21,SKU-00021,Deluxe T-Shirt,clothing,15.34 GBP,ACME Ltd,inactive
+22,SKU-00022,Ultra Blender,HOME & KITCHEN,£43.18,Globex,DISCONTINUED
+23,SKU-00023,Pro Headphones,electronics,,,DISCONTINUED
+24,SKU-00024,Vintage Dumbbells,Sports,106.45,Northwind,active
+25,SKU-00025,Deluxe Hoodie,Apparel,50.90,Initech,Active
+26,SKU-00026,Deluxe Kettle,Home & Kitchen,67.79 GBP,northwind,DISCONTINUED
+27,SKU-00027,Mini Smartwatch,Electronics,100.66,Northwind,
+28,sku00028,Mini Lip Balm,Beauty,109.84,ACME Ltd,discontinued
+29,SKU-00029,Classic Journal,BOOKS,99.46,,discontinued
+30,SKU-00030,Eco Novel,Books,97.33 GBP,Northwind,DISCONTINUED
+31,SKU-00031,VINTAGE FOOTBALL,Sports,113.68,Northwind,DISCONTINUED
+32,SKU-00032,Mini Scarf,Clothing,111.07,Acme,Active
+33,SKU-00033,Classic Kettle  ,Home & Kitchen,£74.43,Acme,Active
+34,SKU-00034,Smart Trainers,Clothes,102.86,Globex,
+35,SKU-00035,Basic Atlas,Book,22.59,Northwind,inactive
+36,SKU-00036,Ultra Lip Balm,Cosmetics,46.36,Globex,discontinued
+37,SKU-00037,Basic Resistance Bands,Sports,60.28,Acme,inactive
+38,SKU-00038,Classic Charger,Electronics,317.28,Initech,discontinued
+39,sku00039,Ultra Cookbook,books,13.17,,inactive
+40,SKU-00040,Basic Resistance Bands,Sports,33.46,Acme,DISCONTINUED
+41,SKU-00041,Vintage Cookbook,Book,62.48,acme,inactive
+42,SKU-00042,DELUXE JOURNAL,Books,£110.67,northwind,inactive
+43,SKU-00043,Deluxe Sunscreen,Beauty & Personal Care,105.91,Initech,DISCONTINUED
+44,SKU-00044,Deluxe Atlas,Books,-15.45,northwind,Active
+45,SKU-00045,Classic Biography,Books,11.92,,active
+46,sku00046,Smart Water Bottle,Sports,"112,35",,DISCONTINUED
+47,SKU-00047,Smart Sunscreen,Cosmetics,82.34,northwind,Active
+48,SKU-00048,Mini Sunscreen,Beauty,24.61,Acme,active
+49,SKU-00049,Mini Sunscreen,Beauty,£39.78,Northwind,DISCONTINUED
+50,SKU-00050,Pro Football,Sports,85.07,northwind,discontinued
+51,SKU-00051,Mini Novel,Book,21.41,Globex,
+52,SKU-00052,Ultra Lip Balm  ,Beauty,115.45,Acme,active
+53,SKU-00053,Classic Moisturiser,Beauty & Personal Care,21.57,Globex,DISCONTINUED
+54,SKU-00054,Mini Yoga Mat,Sports & Outdoors,10.72 GBP,,discontinued
+55,SKU-00055,Smart Toaster,Kitchen,31.67,,
+56,sku00056,ULTRA COOKBOOK,Books,,Initech,discontinued
+57,SKU-00057,Premium Journal,books,46.62,,
+58,SKU-00058,Mini Keyboard,ELECTRONICS,277.23,Acme,DISCONTINUED
+59,SKU-00059,Eco Speaker,Elec.,£89.58,ACME Ltd,Active
+60,SKU-00060,Basic Football,sport,116.19,ACME Ltd,DISCONTINUED
+61,SKU-00061,Premium Jeans,CLOTHING ,£16.49,Acme,discontinued
+62,SKU-00062,BASIC MOUSE,Electronics,165.96,Northwind,active
+63,SKU-00063,Deluxe Toaster,home and kitchen,12.27,Acme,inactive
+64,SKU-00064,Deluxe Yoga Mat  ,SPORTS,5.76,acme,discontinued
+65,SKU-00065,Eco Novel,books,57.71,,inactive
+66,SKU-00066,BASIC FOOTBALL,SPORTS,106.27,Acme,active
+67,SKU-00067,Eco Football,sport,84.43,,Active
+68,SKU-00068,Pro Perfume,Cosmetics,£64.63,,
+69,SKU-00069,Smart Cookbook,Books,,Initech,inactive
+70,SKU-00070,Classic Jacket,Clothing,4.48,northwind,
+71,sku00071,Pro Water Bottle,Sports,30.17,northwind,
+72,SKU-00072,DELUXE KETTLE,Home&Kitchen,86.07,Globex,
+73,SKU-00073,Ultra T-Shirt,Clothing,74.30,ACME Ltd,
+74,SKU-00074,Basic Scarf,Clothing,108.64 GBP,ACME Ltd,inactive
+75,sku00075,ECO PERFUME,Beauty,,,
+76,SKU-00076,Premium Pan,Home & Kitchen,56.68,ACME Ltd,Active
+77,SKU-00077,Premium Journal,Books,,,DISCONTINUED
+78,SKU-00078,Vintage Shampoo,Beauty,78.99,acme,active
+79,SKU-00079,Eco Sunscreen,Beauty,74.65,Acme,inactive
+80,SKU-00080,Vintage Webcam,electronics,£248.29,,DISCONTINUED
+81,SKU-00081,Deluxe Resistance Bands,Sports,31.10,Acme,active
+82,SKU-00082,Deluxe Hoodie,Clothing,66.98,,inactive
+83,SKU-00083,Mini Perfume,Cosmetics,52.20,acme,inactive
+84,SKU-00084,Mini Cookbook,Books,94.46,Northwind,Active
+85,SKU-00085,Deluxe Blender,Home & Kitchen,69.34,northwind,active
+86,SKU-00086,PRO TOASTER,Home & Kitchen,61.47,acme,discontinued
+87,SKU-00087,Mini Lip Balm,Cosmetics,65.64,Northwind,Active
+88,SKU-00088,Basic Sunscreen,Beauty,£115.15,Acme,
+89,SKU-00089,Deluxe Sunscreen,Beauty,£47.07,northwind,discontinued
+90,SKU-00090,Classic Trainers,Clothing,£17.83,Acme,Active
+91,SKU-00091,Premium Sunscreen,Beauty,£33.64,Initech,discontinued
+92,sku00092,Classic Jacket,Clothing,43.73,,discontinued
+93,sku00093,Mini Water Bottle,Sports,26.57,Initech,
+94,SKU-00094,Vintage Jacket,Clothing,34.39,northwind,
+95,sku00095,Classic Bike Light,sport,14.24,,
+96,SKU-00096,Premium Football,Sports,20.89,Initech,
+97,SKU-00097,Ultra Kettle,Home & Kitchen,55.90,Acme,DISCONTINUED
+98,SKU-00098,Classic Lip Balm,Beauty,,,discontinued
+99,SKU-00099,Premium Football,Sports,23.53,Initech,discontinued
+100,SKU-00100,Deluxe Lip Balm,Beauty,-47.68,,DISCONTINUED
+101,SKU-00101,Deluxe Mug Set,Home & Kitchen,72.72,acme,
+102,SKU-00102,Basic Smartwatch,Electronics,128.75,Initech,inactive
+103,SKU-00103,Vintage Trainers,Clothing,17.26,,Active
+104,SKU-00104,Classic Face Mask,Beauty & Personal Care,67.76,ACME Ltd,Active
+105,SKU-00105,Basic Bike Light,Sports,26.86,acme,active
+106,SKU-00106,Eco Water Bottle,sport,40.82,Acme,Active
+107,SKU-00107,Classic Pan,Kitchen,95.45,,DISCONTINUED
+108,SKU-00108,Deluxe Jeans,CLOTHING ,30.04,acme,inactive
+109,SKU-00109,Basic Bike Light,Sports,108.13,,inactive
+110,sku00110,Smart Scarf,Clothing,18.20,,Active
+111,SKU-00111,Vintage Guidebook,books,"39,07",Initech,inactive
+112,SKU-00112,VINTAGE SUNSCREEN,Beauty & Personal Care,35.50,ACME Ltd,active
+113,sku00113,Deluxe Scarf,clothing,18.98,Acme,
+114,SKU-00114,Classic Mouse  ,Electronics,376.00,ACME Ltd,DISCONTINUED
+115,SKU-00115,Deluxe Blender,Home&Kitchen,86.99,Initech,
+116,SKU-00116,Basic Lamp  ,Home & Kitchen,71.90,acme,
+117,SKU-00117,Ultra Atlas,Books,£113.72,Initech,active
+118,SKU-00118,Pro Keyboard,Electronics,20.83,,DISCONTINUED
+119,SKU-00119,PRO GUIDEBOOK,Books,£9.78,ACME Ltd,
+120,SKU-00120,Mini Webcam  ,Elec.,43.83,acme,active
+121,SKU-00121,Pro T-Shirt,clothing,17.50,Acme,Active
+122,SKU-00122,Classic Sunscreen,Beauty,£46.87,Northwind,Active
+123,SKU-00123,Vintage Bike Light,Sports & Outdoors,£68.57,Initech,Active
+124,SKU-00124,MINI KETTLE,Home & Kitchen,88.53,Initech,discontinued
+125,SKU-00125,Classic Face Mask,beauty,41.05,acme,active
+126,SKU-00126,SMART FOOTBALL,Sports & Outdoors,115.13,Globex,
+127,SKU-00127,Mini Smartwatch,Electronics,255.07,Northwind,DISCONTINUED
+128,sku00128,Smart Moisturiser,Beauty,58.58,Globex,active
+129,SKU-00129,Classic Lip Balm,Beauty,£79.05,,
+130,SKU-00130,Eco Toaster,Home & Kitchen,77.0,northwind,discontinued
+131,SKU-00131,Mini Scarf,Clothing,95.11,Globex,Active
+132,SKU-00132,Smart Socks,Apparel,14.14,Northwind,inactive
+133,sku00133,Classic Speaker,Electronics,357.67,ACME Ltd,Active
+134,SKU-00134,Mini Keyboard,Electronics,"175,52",,discontinued
+135,SKU-00135,Deluxe Biography,Book,40.72,Globex,active
+136,SKU-00136,Mini Journal,BOOKS,56.67,northwind,active
+137,SKU-00137,Deluxe Yoga Mat,SPORTS,£102.10,Acme,active
+138,SKU-00138,PREMIUM SUNSCREEN,Beauty & Personal Care,42.40 GBP,ACME Ltd,
+139,SKU-00139,Mini Hoodie,Clothing,-67.54,acme,
+140,SKU-00140,Pro Trainers  ,Clothing,76.02,Globex,DISCONTINUED
+141,SKU-00141,Pro T-Shirt,Clothing,92.61,,active
+142,SKU-00142,Smart Keyboard,Elec.,172.12,,inactive
+143,SKU-00143,Deluxe Knife Set,home and kitchen,32.91,,Active
+144,SKU-00144,SMART HOODIE,Clothing,58.52,Initech,active
+145,SKU-00145,Eco Pan,Kitchen,"16,35",ACME Ltd,discontinued
+146,SKU-00146,BASIC ATLAS,Books,,Globex,inactive
+147,SKU-00147,Eco Resistance Bands,Sports,63.28,,Active
+148,SKU-00148,Ultra Biography,Books,68.54,northwind,discontinued
+149,SKU-00149,Smart Atlas,books,71.88,acme,
+150,SKU-00150,Pro Shampoo,Beauty,53.32,northwind,discontinued
+151,SKU-00151,Pro Perfume,Beauty,76.69,Northwind,DISCONTINUED
+152,SKU-00152,Pro Guidebook  ,Books,50.85,,discontinued
+153,SKU-00153,Basic Headphones,electronics,£26.26,acme,
+154,SKU-00154,Classic Jacket,Clothing,65.26,,
+155,SKU-00155,Smart Moisturiser,Beauty,6.37,northwind,DISCONTINUED
+156,SKU-00156,Deluxe Cookbook,BOOKS,39.42,Northwind,DISCONTINUED
+157,SKU-00157,PRO BIKE LIGHT,Sports,31.56,ACME Ltd,discontinued
+158,SKU-00158,Premium Trainers,Clothing,3.41,,discontinued
+159,SKU-00159,Eco Guidebook,Books,54.09 GBP,Acme,DISCONTINUED
+160,SKU-00160,SMART WEBCAM,Electronics,202.13,ACME Ltd,
+161,SKU-00161,Deluxe Face Mask,Beauty,-9.98,Initech,active
+162,SKU-00162,Pro Resistance Bands,Sports,"48,95",Initech,DISCONTINUED
+163,SKU-00163,Eco Yoga Mat  ,Sports & Outdoors,£111.27,acme,discontinued
+164,sku00164,Pro Shampoo,beauty,,,active
+165,SKU-00165,Ultra Pan,HOME & KITCHEN,,northwind,discontinued
+166,SKU-00166,Pro Hoodie,Clothing,9.05 GBP,Acme,active
+167,SKU-00167,PREMIUM BLENDER,Home&Kitchen,116.49 GBP,acme,DISCONTINUED
+168,SKU-00168,Pro Atlas,Books,38.40,Initech,
+169,SKU-00169,Pro Journal,Books,118.79,Globex,Active
+170,SKU-00170,Premium Journal,Books,82.28,,Active
+171,SKU-00171,Pro Jacket  ,Apparel,88.50,acme,active
+172,SKU-00172,Vintage Lamp,Kitchen,18.14,,discontinued
+173,SKU-00173,Mini Knife Set,Kitchen,115.23,Globex,active
+174,SKU-00174,MINI SHAMPOO,Beauty,"82,82",Initech,Active
+175,SKU-00175,SMART SHAMPOO,Beauty,"97,68",northwind,Active
+176,SKU-00176,Pro Jeans,Clothing,9.39,,
+177,SKU-00177,Ultra Lamp,Home & Kitchen,56.32,,DISCONTINUED
+178,SKU-00178,Basic Speaker,Electronic,359.04 GBP,ACME Ltd,active
+179,SKU-00179,Deluxe Scarf,Clothing,42.10,Northwind,
+180,SKU-00180,Deluxe Pan,home and kitchen,81.51,acme,Active
+181,SKU-00181,MINI T-SHIRT,Clothes,13.97,Initech,Active
+182,SKU-00182,Mini Toaster,Home & Kitchen,116.30,acme,DISCONTINUED
+183,SKU-00183,Premium Journal,Books,4.00,Northwind,DISCONTINUED
+184,SKU-00184,Vintage Novel,Books,95.33,northwind,inactive
+185,SKU-00185,Premium Lamp,Home & Kitchen,£74.33,Globex,inactive
+186,SKU-00186,Basic Charger,Electronics,£34.76,,discontinued
+187,sku00187,Premium Face Mask,Beauty,£88.02,Initech,inactive
+188,sku00188,Premium Water Bottle,Sports,£14.71,Globex,
+189,SKU-00189,Deluxe Charger,Electronic,9.38,acme,active
+190,SKU-00190,Mini Football,sport,£67.40,Globex,DISCONTINUED
+191,SKU-00191,Pro Speaker,Electronics,-393.91,Globex,inactive
+192,SKU-00192,Basic Webcam,electronics,321.17,ACME Ltd,DISCONTINUED
+193,SKU-00193,Premium Knife Set,home and kitchen,84.30,Initech,discontinued
+194,sku00194,MINI FACE MASK,Cosmetics,54.40,Initech,Active
+195,SKU-00195,Eco Bike Light,Sports,17.73,Northwind,active
+196,SKU-00196,Ultra Webcam,electronics,-12.49,Northwind,
+197,SKU-00197,Eco Hoodie,Apparel,104.66,northwind,DISCONTINUED
+198,SKU-00198,Eco Sunscreen,Beauty & Personal Care,77.09,Initech,
+199,SKU-00199,Basic Hoodie,clothing,19.06,Initech,discontinued
+200,SKU-00200,Vintage Journal,BOOKS,24.61,,DISCONTINUED
+201,sku00201,Premium Cookbook,Books,£12.92,Globex,active
+202,SKU-00202,PREMIUM GUIDEBOOK,Books,29.75,Northwind,active
+203,SKU-00203,Premium Scarf,clothing,47.52,Acme,
+204,SKU-00204,Pro Biography,Book,108.88,,DISCONTINUED
+205,SKU-00205,Ultra Biography,Books,81.22,Initech,active
+206,SKU-00206,Classic Lamp,Home&Kitchen,77.88,Initech,active
+207,SKU-00207,Eco Charger,Elec.,299.14,northwind,
+208,SKU-00208,Ultra Lamp,home and kitchen,£98.86,,inactive
+209,sku00209,Ultra Moisturiser,beauty,£86.57,acme,DISCONTINUED
+210,SKU-00210,Premium Shampoo,Beauty & Personal Care,58.59,Acme,inactive
+211,SKU-00211,Eco Lamp,home and kitchen,59.38,Northwind,discontinued
+212,SKU-00212,Classic Keyboard,Electronics,£38.03,,DISCONTINUED
+213,sku00213,Deluxe Knife Set,home and kitchen,66.74,ACME Ltd,active
+214,SKU-00214,Smart Scarf,Clothing,112.6,Acme,discontinued
+215,SKU-00215,Pro Mouse  ,Electronics,88.91,acme,Active
+216,SKU-00216,Eco Trainers,Clothing,26.57,Initech,discontinued
+217,SKU-00217,Pro Perfume,Beauty,54.30,Acme,active
+218,SKU-00218,Smart Headphones,Electronics,£161.26,ACME Ltd,inactive
+219,SKU-00219,Vintage Lip Balm,Beauty,£43.26,Northwind,active
+220,sku00220,Basic Jacket,CLOTHING ,,northwind,discontinued
+221,SKU-00221,Pro Water Bottle,Sports & Outdoors,9.74,Initech,active
+222,SKU-00222,Basic Smartwatch,electronics,253.51,Initech,inactive
+223,SKU-00223,Vintage Novel,Books,32.52,northwind,active
+224,SKU-00224,BASIC JACKET,Clothing,"10,70",northwind,Active
+225,SKU-00225,Premium Journal,Books,70.19,,DISCONTINUED
+226,SKU-00226,Basic Charger,electronics,275.28,Northwind,
+227,SKU-00227,Vintage Perfume,Beauty,£71.39,Acme,DISCONTINUED
+228,SKU-00228,Eco Kettle,Kitchen,"84,13",Acme,Active
+229,SKU-00229,Eco Jeans,Clothing,5.72,acme,DISCONTINUED
+230,sku00230,Classic Atlas,Books,£99.06,acme,DISCONTINUED
+231,SKU-00231,Mini Cookbook  ,BOOKS,52.98,,discontinued
+232,SKU-00232,Ultra Speaker,Electronics,,ACME Ltd,active
+233,SKU-00233,Mini T-Shirt,Clothing,101.47,northwind,inactive
+234,SKU-00234,Smart Webcam,Electronics,69.00,Initech,
+235,SKU-00235,Smart Hoodie,Apparel,-114.14,northwind,DISCONTINUED
+236,sku00236,Classic Face Mask,Beauty,6.87,acme,active
+237,SKU-00237,Smart Blender  ,HOME & KITCHEN,5.41,,Active
+238,sku00238,Pro Toaster,Kitchen,117.91,ACME Ltd,DISCONTINUED
+239,SKU-00239,Ultra Sunscreen,Beauty,£91.15,northwind,Active
+240,SKU-00240,BASIC MOUSE,Electronics,£107.02,Acme,DISCONTINUED
+241,SKU-00241,Pro Water Bottle,Sports,37.20,northwind,
+242,SKU-00242,Mini Knife Set,Kitchen,38.58,,DISCONTINUED
+243,SKU-00243,Vintage Yoga Mat,Sports,£35.65,,DISCONTINUED
+244,SKU-00244,Deluxe Pan,Home & Kitchen,77.28,acme,inactive
+245,SKU-00245,Pro Water Bottle,sport,105.73,Acme,DISCONTINUED
+246,SKU-00246,Premium Pan,Home & Kitchen,£73.33,,inactive
+247,SKU-00247,Premium Mouse,electronics,266.91,acme,active
+248,sku00248,Vintage Hoodie,Clothing,45.64,acme,inactive
+249,SKU-00249,Smart Perfume,Beauty & Personal Care,67.16,Globex,Active
+250,SKU-00250,Basic Mug Set,HOME & KITCHEN,89.75,Northwind,active
+251,SKU-00251,Classic T-Shirt,Clothing,"99,71",northwind,
+252,SKU-00252,Premium Charger,ELECTRONICS,£252.27,northwind,DISCONTINUED
+253,SKU-00253,Premium Knife Set,Home & Kitchen,22.94 GBP,Acme,
+254,SKU-00254,Vintage Dumbbells,Sports,31.10,Northwind,DISCONTINUED
+255,SKU-00255,Eco Perfume,Beauty & Personal Care,61.67,Acme,DISCONTINUED
+256,SKU-00256,Pro Guidebook,Book,46.35,,Active
+257,SKU-00257,Pro Resistance Bands  ,Sports,11.02 GBP,Acme,Active
+258,SKU-00258,Smart Knife Set,home and kitchen,4.90,Initech,
+259,SKU-00259,Basic Guidebook,Books,£7.81,,inactive
+260,SKU-00260,Pro Football,Sports,28.76,,Active
+261,SKU-00261,Eco Journal,BOOKS,27.26,Globex,Active
+262,SKU-00262,SMART JOURNAL,Books,89.26,northwind,
+263,SKU-00263,CLASSIC SPEAKER,Electronics,388.69 GBP,northwind,discontinued
+264,sku00264,Mini T-Shirt,CLOTHING ,£109.69,Globex,discontinued
+265,SKU-00265,Basic Shampoo,Cosmetics,£39.33,northwind,active
+266,SKU-00266,Smart Jeans,CLOTHING ,,Initech,DISCONTINUED
+267,SKU-00267,Smart Knife Set,home and kitchen,"46,77",Globex,DISCONTINUED
+268,SKU-00268,Vintage Speaker,Elec.,370.31,acme,DISCONTINUED
+269,sku00269,Smart Lamp,Kitchen,"42,68",northwind,active
+270,SKU-00270,Deluxe Scarf,Clothes,£20.60,acme,discontinued
+271,SKU-00271,Deluxe Resistance Bands,Sports,80.91,,DISCONTINUED
+272,SKU-00272,Vintage Trainers,Clothing,83.23,,DISCONTINUED
+273,sku00273,Mini Moisturiser  ,Cosmetics,117.28,Globex,inactive
+274,sku00274,DELUXE RESISTANCE BANDS,Sports,£43.40,Initech,DISCONTINUED
+275,SKU-00275,Eco Webcam,Electronics,"390,59",Initech,discontinued
+276,SKU-00276,Deluxe Perfume,Cosmetics,96.12,Globex,inactive
+277,SKU-00277,Ultra Mug Set,Home & Kitchen,"83,89",Northwind,inactive
+278,SKU-00278,Basic Biography,Book,89.92 GBP,Northwind,Active
+279,SKU-00279,Pro Moisturiser,Beauty,69.87,Initech,DISCONTINUED
+280,SKU-00280,Deluxe Yoga Mat,Sports & Outdoors,105.80 GBP,,inactive
+281,SKU-00281,Smart Scarf,Apparel,£20.47,Initech,active
+282,SKU-00282,Eco Pan,Home & Kitchen,£55.97,,DISCONTINUED
+283,SKU-00283,Vintage Kettle,Home & Kitchen,£6.27,acme,Active
+284,SKU-00284,Vintage Biography,Books,10.41,,
+285,sku00285,Basic Guidebook,Book,£56.57,northwind,Active
+286,SKU-00286,ECO TOASTER,Home & Kitchen,86.67,ACME Ltd,DISCONTINUED
+287,SKU-00287,Basic Headphones,Electronics,170.27,Initech,discontinued
+288,SKU-00288,SMART JEANS,CLOTHING ,55.86,acme,DISCONTINUED
+289,SKU-00289,Ultra Resistance Bands,Sports,,northwind,DISCONTINUED
+290,sku00290,Basic Mug Set  ,Home&Kitchen,109.14,acme,DISCONTINUED
+291,SKU-00291,Classic Socks,Clothes,£26.34,Globex,
+292,SKU-00292,Ultra Football,Sports & Outdoors,5.68,Initech,discontinued
+293,SKU-00293,Mini Blender,HOME & KITCHEN,10.48,acme,
+294,sku00294,Smart Knife Set,Home&Kitchen,£119.27,Globex,Active
+295,SKU-00295,Premium Moisturiser,Beauty,£8.11,ACME Ltd,
+296,SKU-00296,Eco Resistance Bands,Sports & Outdoors,-100.29,Initech,inactive
+297,SKU-00297,Eco Guidebook,Books,8.94,,Active
+298,SKU-00298,PRO SUNSCREEN,Beauty,28.24,Globex,discontinued
+299,SKU-00299,Smart Keyboard,electronics,359.63,northwind,discontinued
+300,SKU-00300,Deluxe Webcam,ELECTRONICS,307.16,Northwind,discontinued
+301,SKU-00301,Classic Jacket,Clothing,30.27,Acme,inactive
+302,SKU-00302,Smart Smartwatch,Electronics,35.99,ACME Ltd,inactive
+303,SKU-00303,Ultra Socks,Clothing,"16,94",,DISCONTINUED
+304,SKU-00304,Premium T-Shirt,Clothing,71.63,Northwind,Active
+305,SKU-00305,Classic Charger,Electronic,145.29,Acme,DISCONTINUED
+306,SKU-00306,Pro Headphones,Electronics,202.73,northwind,active
+307,SKU-00307,Ultra Webcam,electronics,£175.99,Initech,DISCONTINUED
+308,SKU-00308,Premium Webcam,Elec.,180.52,Northwind,inactive
+309,sku00309,Deluxe Socks,Clothing,74.44,ACME Ltd,Active
+310,SKU-00310,Ultra Sunscreen,beauty,91.78,acme,DISCONTINUED
+311,SKU-00311,DELUXE LIP BALM,Beauty,75.76,ACME Ltd,active
+312,SKU-00312,Vintage Face Mask,Cosmetics,57.88,ACME Ltd,active
+313,SKU-00313,CLASSIC FOOTBALL,Sports & Outdoors,30.65,northwind,active
+314,SKU-00314,Ultra Hoodie,Clothing,115.53,Northwind,
+315,SKU-00315,Eco Socks,CLOTHING ,"25,23",,discontinued
+316,SKU-00316,Pro Jacket,Clothing,92.33,Northwind,Active
+317,SKU-00317,Pro Biography,books,110.63 GBP,Initech,discontinued
+318,SKU-00318,Ultra Jeans,Apparel,"60,64",Globex,active
+319,SKU-00319,Pro Yoga Mat,Sports & Outdoors,67.12 GBP,Initech,active
+320,SKU-00320,Basic Moisturiser,Cosmetics,43.66,ACME Ltd,DISCONTINUED
+321,SKU-00321,Pro Mug Set,Home & Kitchen,£13.90,Northwind,discontinued
+322,SKU-00322,Eco Scarf,CLOTHING ,28.59,Initech,discontinued
+323,SKU-00323,Pro Trainers,Apparel,-71.69,Acme,
+324,SKU-00324,Premium Speaker,Electronics,,northwind,inactive
+325,SKU-00325,Eco Socks,Clothing,-96.30,northwind,
+326,SKU-00326,CLASSIC JOURNAL,Book,12.03,northwind,
+327,SKU-00327,MINI KETTLE,HOME & KITCHEN,35.79,Initech,inactive
+328,sku00328,Basic Yoga Mat,Sports,60.99,Globex,active
+329,SKU-00329,Classic Face Mask,Beauty & Personal Care,£17.38,ACME Ltd,Active
+330,SKU-00330,Classic Pan,Home & Kitchen,118.15,Northwind,inactive
+331,SKU-00331,Vintage Guidebook,Book,33.27,,discontinued
+332,SKU-00332,Premium Yoga Mat,Sports & Outdoors,52.04,ACME Ltd,active
+333,SKU-00333,Basic Face Mask,beauty,108.97,Globex,Active
+334,SKU-00334,Ultra Perfume,Beauty,73.39,northwind,active
+335,SKU-00335,Premium Yoga Mat,Sports,101.57,ACME Ltd,DISCONTINUED
+336,sku00336,ECO SOCKS,Clothing,,Initech,discontinued
+337,SKU-00337,Ultra Scarf,Apparel,103.97,northwind,DISCONTINUED
+338,SKU-00338,Smart Bike Light,Sports,9.64,Acme,active
+339,SKU-00339,Premium Smartwatch,Electronics,155.41,Acme,Active
+340,SKU-00340,Vintage Dumbbells,SPORTS,£117.01,,Active
+341,SKU-00341,Smart Charger,Electronic,52.48,Northwind,active
+342,SKU-00342,Basic Lamp,Home & Kitchen,£88.32,Northwind,Active
+343,SKU-00343,Eco Shampoo,Beauty & Personal Care,,,DISCONTINUED
+344,SKU-00344,Deluxe Pan,home and kitchen,18.70,northwind,active
+345,SKU-00345,Eco T-Shirt,Clothing,95.96,Initech,inactive
+346,SKU-00346,Mini Yoga Mat,Sports,"86,13",Northwind,discontinued
+347,SKU-00347,Classic Knife Set,Home & Kitchen,,Globex,Active
+348,SKU-00348,PREMIUM BIOGRAPHY,Books,104.57,Globex,active
+349,SKU-00349,Pro Knife Set,Home & Kitchen,25.30,Globex,DISCONTINUED
+350,SKU-00350,Eco Scarf,CLOTHING ,90.44,,
+351,SKU-00351,Classic Smartwatch,Elec.,£398.96,ACME Ltd,active
+352,SKU-00352,Pro Face Mask,Beauty & Personal Care,69.06,Acme,active
+353,SKU-00353,Eco Kettle,Home & Kitchen,"10,52",Globex,Active
+354,SKU-00354,Premium Trainers,Clothing,33.30,Acme,Active
+355,SKU-00355,MINI SCARF,clothing,-103.34,,active
+356,SKU-00356,ECO LIP BALM,Beauty,83.06,northwind,inactive
+357,SKU-00357,Smart Guidebook,BOOKS,57.18,Initech,discontinued
+358,SKU-00358,Vintage Journal,Books,"23,95",,inactive
+359,SKU-00359,Smart Dumbbells,Sports,81.23,Initech,DISCONTINUED
+360,SKU-00360,Mini Toaster,Home & Kitchen,53.66,,discontinued
+361,sku00361,SMART GUIDEBOOK,Books,81.54,Globex,discontinued
+362,SKU-00362,Deluxe Speaker,Electronics,50.78,Globex,
+363,SKU-00363,Eco Perfume,Beauty,85.68,,
+364,SKU-00364,Mini Guidebook,Book,19.24,ACME Ltd,Active
+365,sku00365,Smart Jeans,CLOTHING ,27.17,acme,DISCONTINUED
+366,sku00366,Pro Perfume,Beauty,105.47 GBP,Acme,active
+367,SKU-00367,Pro Shampoo,Beauty,£25.93,acme,
+368,SKU-00368,Eco Headphones,electronics,-121.52,Acme,
+369,SKU-00369,Eco Speaker,Electronics,60.40 GBP,northwind,inactive
+370,SKU-00370,Ultra Lip Balm,Beauty & Personal Care,80.18,,discontinued
+371,SKU-00371,Premium Novel,books,58.19,ACME Ltd,discontinued
+372,sku00372,Basic Water Bottle,Sports,13.84,northwind,inactive
+373,SKU-00373,Pro Blender,Kitchen,13.24,Acme,inactive
+374,SKU-00374,Eco Knife Set,home and kitchen,"86,94",,
+375,SKU-00375,Eco Mug Set,Home & Kitchen,£25.05,ACME Ltd,DISCONTINUED
+376,SKU-00376,Vintage Water Bottle,Sports,3.90,northwind,Active
+377,SKU-00377,Mini Novel,Books,"108,17",,active
+378,SKU-00378,Pro Jeans,CLOTHING ,56.28,,Active
+379,SKU-00379,Deluxe Jacket,Clothing,£94.62,ACME Ltd,inactive
+380,SKU-00380,Vintage Water Bottle,Sports,44.78,,
+381,SKU-00381,Vintage Mouse,electronics,36.46,ACME Ltd,inactive
+382,SKU-00382,Pro Speaker,Electronics,358.93,Acme,discontinued
+383,SKU-00383,Classic Mouse,Electronics,350.50,Northwind,inactive
+384,SKU-00384,Ultra Knife Set,HOME & KITCHEN,36.55 GBP,,DISCONTINUED
+385,SKU-00385,Premium Cookbook,books,106.01,,active
+386,SKU-00386,PREMIUM JOURNAL,Books,78.60,Northwind,active
+387,SKU-00387,Mini Trainers,Apparel,102.85,Globex,inactive
+388,SKU-00388,Deluxe Shampoo,Beauty,"19,91",Globex,discontinued
+389,SKU-00389,Vintage Webcam  ,Electronics,174.98,,active
+390,sku00390,Eco Knife Set,home and kitchen,23.43,Globex,active
+391,SKU-00391,Eco Mouse,Electronic,45.56,northwind,inactive
+392,SKU-00392,Smart Cookbook  ,BOOKS,103.81,Globex,active
+393,SKU-00393,Mini Bike Light,Sports,4.39,Initech,discontinued
+394,SKU-00394,Deluxe Water Bottle,Sports,7.33,northwind,active
+395,SKU-00395,Pro Blender,Home & Kitchen,101.31,Initech,DISCONTINUED
+396,SKU-00396,Vintage T-Shirt,Clothing,4.52,Acme,DISCONTINUED
+397,SKU-00397,Ultra Smartwatch,Electronics,240.02,acme,DISCONTINUED
+398,SKU-00398,Smart Yoga Mat,Sports,38.06,,discontinued
+399,SKU-00399,Vintage Football,Sports,73.80 GBP,Acme,active
+400,sku00400,Ultra Hoodie,Apparel,12.89,Acme,Active
+401,SKU-00401,Ultra Trainers,CLOTHING ,£17.75,,discontinued
+402,SKU-00402,Basic Biography,Books,15.47,Globex,inactive
+403,SKU-00403,Eco Lip Balm,Beauty,92.64,ACME Ltd,discontinued
+404,sku00404,Eco Webcam,Electronics,£31.02,Initech,DISCONTINUED
+405,SKU-00405,CLASSIC JEANS,Clothing,£118.45,acme,Active
+406,SKU-00406,Vintage Dumbbells,Sports,69.39,ACME Ltd,inactive
+407,SKU-00407,Pro Webcam,Electronic,126.44,acme,
+408,sku00408,Premium Scarf,Apparel,,,active
+409,SKU-00409,Eco Moisturiser  ,Beauty,99.53,,Active
+410,SKU-00410,Smart Sunscreen,Cosmetics,19.99,Globex,active
+411,SKU-00411,Deluxe Knife Set,home and kitchen,3.83,ACME Ltd,
+412,SKU-00412,Mini Football,sport,£45.85,northwind,DISCONTINUED
+413,SKU-00413,Premium Resistance Bands,Sports,29.14,Initech,DISCONTINUED
+414,SKU-00414,Pro Cookbook,Books,45.53,,discontinued
+415,SKU-00415,Smart Journal,Books,71.84,Northwind,Active
+416,SKU-00416,Smart Knife Set,home and kitchen,77.78,northwind,active
+417,sku00417,Basic Mug Set,Home & Kitchen,79.21,,inactive
+418,SKU-00418,Classic Socks,Clothing,80.86,Northwind,inactive
+419,SKU-00419,Eco Socks,Clothing,105.96,ACME Ltd,active
+420,SKU-00420,Vintage Mug Set,Home&Kitchen,94.55,acme,DISCONTINUED
+421,SKU-00421,BASIC YOGA MAT,Sports,111.77,northwind,DISCONTINUED
+422,SKU-00422,Pro Yoga Mat,Sports & Outdoors,,Northwind,Active
+423,SKU-00423,Vintage T-Shirt,Apparel,£96.91,Northwind,discontinued
+424,SKU-00424,Vintage Lamp,Home & Kitchen,23.53,ACME Ltd,discontinued
+425,SKU-00425,Eco T-Shirt,Clothing,6.53,ACME Ltd,inactive
+426,SKU-00426,Ultra Perfume,beauty,63.04,Northwind,
+427,SKU-00427,Classic Jeans,Apparel,"30,14",acme,Active
+428,SKU-00428,Deluxe Novel,Book,21.22,Acme,Active
+429,SKU-00429,Vintage Keyboard,ELECTRONICS,278.85,Acme,Active
+430,SKU-00430,Classic Face Mask,Beauty,99.55,,
+431,SKU-00431,Premium Socks,clothing,109.74,,Active
+432,SKU-00432,Basic Guidebook,Books,19.32,,active
+433,SKU-00433,Basic Cookbook,books,40.25,Globex,discontinued
+434,SKU-00434,Classic Charger,ELECTRONICS,£48.62,ACME Ltd,discontinued
+435,SKU-00435,Deluxe Yoga Mat,Sports & Outdoors,112.47,Initech,discontinued
+436,SKU-00436,VINTAGE JOURNAL,Books,"9,79",acme,discontinued
+437,SKU-00437,Smart Lamp,Home & Kitchen,,acme,active
+438,SKU-00438,Classic Mug Set,Home & Kitchen,"64,44",ACME Ltd,Active
+439,SKU-00439,Basic Toaster,home and kitchen,£52.55,,
+440,SKU-00440,Eco Mouse,Electronics,£165.15,,
+441,SKU-00441,Ultra Face Mask,beauty,74.90,,inactive
+442,SKU-00442,Mini Jacket,CLOTHING ,28.13,ACME Ltd,
+443,SKU-00443,Mini Pan,HOME & KITCHEN,106.25 GBP,Acme,discontinued
+444,SKU-00444,Vintage Dumbbells,sport,11.07,ACME Ltd,DISCONTINUED
+445,SKU-00445,Classic Smartwatch,Electronics,"343,50",Initech,Active
+446,SKU-00446,Vintage Mouse,Electronics,93.11,,
+447,SKU-00447,Deluxe Moisturiser,Beauty,£48.73,ACME Ltd,
+448,SKU-00448,Classic Knife Set,Home & Kitchen,75.33,Northwind,DISCONTINUED
+449,SKU-00449,Smart Mug Set,home and kitchen,£4.49,,discontinued
+450,SKU-00450,Ultra Shampoo,Beauty,£29.25,Initech,inactive
+451,SKU-00451,DELUXE T-SHIRT,CLOTHING ,"118,81",northwind,DISCONTINUED
+452,SKU-00452,Mini Dumbbells,sport,49.66,acme,discontinued
+453,SKU-00453,Smart Lamp,HOME & KITCHEN,31.59,,inactive
+454,SKU-00454,Eco Water Bottle,SPORTS,39.09,,
+455,SKU-00455,Deluxe Bike Light,Sports,51.17,Initech,discontinued
+456,SKU-00456,Deluxe Novel,books,78.87,Acme,Active
+457,SKU-00457,SMART SMARTWATCH,ELECTRONICS,397.57,,inactive
+458,SKU-00458,Premium Journal  ,books,58.49,Northwind,
+459,SKU-00459,Vintage Yoga Mat,Sports & Outdoors,£71.08,Acme,DISCONTINUED
+460,SKU-00460,Smart Lamp,Home & Kitchen,"35,18",northwind,active
+461,SKU-00461,Smart Jacket,Clothing,109.87,Globex,Active
+462,SKU-00462,Smart Atlas,Books,82.08,Northwind,active
+463,SKU-00463,Deluxe Moisturiser,Cosmetics,"62,48",northwind,Active
+464,SKU-00464,Mini Jacket,Clothing,105.32,Initech,discontinued
+465,SKU-00465,Smart Water Bottle,Sports,30.30,Globex,inactive
+466,SKU-00466,Vintage Yoga Mat,Sports,,northwind,active
+467,SKU-00467,Deluxe Shampoo,Beauty,94.17,Globex,Active
+468,SKU-00468,Deluxe Charger,ELECTRONICS,273.55,Northwind,active
+469,sku00469,Mini Keyboard,ELECTRONICS,£212.91,Northwind,active
+470,SKU-00470,Mini Webcam,Electronics,49.59,Northwind,inactive
+471,SKU-00471,Deluxe Scarf,Clothing,87.69 GBP,Northwind,Active
+472,SKU-00472,Ultra Atlas,Book,115.85,northwind,Active
+473,SKU-00473,Vintage Scarf  ,Clothing,"24,07",,inactive
+474,SKU-00474,Ultra Jeans,Clothing,£58.13,northwind,Active
+475,SKU-00475,Basic Lip Balm,Cosmetics,"86,51",,Active
+476,SKU-00476,Ultra Blender,Kitchen,54.08,acme,Active
+477,SKU-00477,Pro Hoodie,Clothing,59.52,,inactive
+478,sku00478,MINI CHARGER,Electronics,83.70,Acme,discontinued
+479,SKU-00479,Mini Perfume,Beauty,44.91,acme,DISCONTINUED
+480,SKU-00480,Premium Perfume,Beauty,29.05,northwind,active
+481,SKU-00481,Premium Journal,Books,22.01,acme,
+482,SKU-00482,Smart Pan,Home & Kitchen,58.24,Northwind,
+483,SKU-00483,Premium Face Mask,beauty,70.58,Acme,inactive
+484,SKU-00484,Basic T-Shirt,clothing,£10.62,northwind,active
+485,SKU-00485,Classic Mouse,Electronics,£353.05,Northwind,DISCONTINUED
+486,SKU-00486,Deluxe Kettle,Home & Kitchen,"68,62",Acme,DISCONTINUED
+487,SKU-00487,Ultra Keyboard,electronics,325.12,northwind,Active
+488,SKU-00488,Premium Trainers,Clothing,"95,20",Acme,
+489,SKU-00489,Premium Mug Set,Home & Kitchen,100.98,northwind,
+490,SKU-00490,Premium Smartwatch,electronics,280.97,acme,
+491,SKU-00491,Eco Yoga Mat  ,Sports,£97.14,Acme,inactive
+492,SKU-00492,Smart Scarf,Clothes,,northwind,Active
+493,SKU-00493,Ultra Scarf,clothing,112.89,,Active
+494,SKU-00494,Smart Mouse,ELECTRONICS,104.61,,inactive
+495,SKU-00495,Smart Guidebook,Books,5.09,,discontinued
+496,sku00496,Vintage Speaker,Electronics,90.97,northwind,DISCONTINUED
+497,SKU-00497,Pro Novel,Books,,Globex,
+498,SKU-00498,Vintage Webcam,ELECTRONICS,111.25,ACME Ltd,
+499,SKU-00499,Basic Atlas,BOOKS,117.33,,DISCONTINUED
+500,SKU-00500,Basic Lamp,Home & Kitchen,91.26,northwind,active
+501,SKU-00501,Premium Bike Light,Sports,52.23,ACME Ltd,discontinued
+502,SKU-00502,Classic Pan,Home & Kitchen,90.33,,
+503,SKU-00503,Basic Pan,Kitchen,"96,40",northwind,discontinued
+504,SKU-00504,Smart Mug Set,Home & Kitchen,18.20,Globex,DISCONTINUED
+505,sku00505,Pro Resistance Bands,Sports,£24.04,northwind,inactive
+506,SKU-00506,PRO JEANS,CLOTHING ,102.38,Acme,inactive
+507,SKU-00507,Mini Face Mask,beauty,,Globex,inactive
+508,SKU-00508,Ultra Speaker,ELECTRONICS,£61.20,ACME Ltd,inactive
+509,SKU-00509,DELUXE TRAINERS,Clothing,90.10,Acme,Active
+510,SKU-00510,Vintage Football,Sports,25.44,Globex,Active
+511,SKU-00511,Deluxe Bike Light,Sports,"89,04",Globex,Active
+512,SKU-00512,Pro T-Shirt,Clothes,13.05,,inactive
+513,SKU-00513,Smart Headphones  ,Elec.,£340.69,Initech,inactive
+514,sku00514,Premium Cookbook,Books,92.95,northwind,inactive
+515,SKU-00515,Mini Smartwatch,Electronics,95.09,Northwind,
+516,SKU-00516,Vintage Moisturiser,beauty,"61,51",Initech,discontinued
+517,SKU-00517,Eco Biography,Books,12.74 GBP,acme,Active
+518,SKU-00518,Ultra Novel,Book,42.10,northwind,Active
+519,SKU-00519,Eco Blender,home and kitchen,46.24,Acme,Active
+520,sku00520,Smart Jacket  ,Apparel,113.58,,DISCONTINUED
+521,SKU-00521,Premium Water Bottle,sport,"57,87",Initech,discontinued
+522,SKU-00522,Eco Lamp,Home&Kitchen,65.41,,Active
+523,SKU-00523,Ultra Knife Set,Kitchen,"119,96",,
+524,SKU-00524,Pro Perfume,Beauty,£87.85,ACME Ltd,Active
+525,SKU-00525,Basic Resistance Bands,Sports & Outdoors,,northwind,discontinued
+526,SKU-00526,Vintage Speaker,electronics,,Globex,Active
+527,SKU-00527,Premium Kettle,home and kitchen,10.22,Acme,Active
+528,SKU-00528,PRO ATLAS,BOOKS,13.61,northwind,discontinued
+529,SKU-00529,Eco Socks,CLOTHING ,12.20,,discontinued
+530,sku00530,Ultra Lip Balm,Beauty,52.90,Northwind,active
+531,sku00531,Classic Resistance Bands,Sports,46.56,Acme,
+532,SKU-00532,Smart Atlas,Books,119.59 GBP,acme,discontinued
+533,SKU-00533,Eco Face Mask,Beauty,£112.87,,Active
+534,SKU-00534,Ultra Scarf,Clothing,78.93,Acme,discontinued
+535,SKU-00535,Eco Novel,Books,"88,73",Northwind,DISCONTINUED
+536,SKU-00536,Deluxe Lip Balm,Beauty & Personal Care,12.27,northwind,DISCONTINUED
+537,SKU-00537,Classic Cookbook,Books,"78,15",ACME Ltd,DISCONTINUED
+538,SKU-00538,Deluxe Jeans  ,Clothing,£54.28,Northwind,discontinued
+539,SKU-00539,Eco Perfume,beauty,102.10,Globex,
+540,SKU-00540,Pro Blender,Home & Kitchen,16.45,,inactive
+541,SKU-00541,Ultra Resistance Bands,Sports,68.52,Globex,active
+542,SKU-00542,Vintage Trainers,Clothing,,,DISCONTINUED
+543,SKU-00543,Ultra Cookbook,Books,-44.55,,discontinued
+544,sku00544,Deluxe Kettle,Kitchen,49.93,northwind,
+545,SKU-00545,Ultra Moisturiser,Beauty,£12.98,northwind,inactive
+546,SKU-00546,Eco Bike Light,Sports,51.50,northwind,inactive
+547,SKU-00547,Ultra Pan,Home & Kitchen,79.32,ACME Ltd,active
+548,SKU-00548,Pro Bike Light,Sports,,Initech,inactive
+549,sku00549,Basic Lamp,home and kitchen,74.36,,
+550,SKU-00550,Classic Blender,Home & Kitchen,105.66,Initech,discontinued
+551,sku00551,Basic Resistance Bands,Sports,79.50,,discontinued
+552,sku00552,Vintage Blender,Home&Kitchen,18.56,Globex,Active
+553,SKU-00553,Basic Webcam,Electronics,76.82,Northwind,DISCONTINUED
+554,SKU-00554,Eco Socks,Clothing,90.12,northwind,discontinued
+555,SKU-00555,Deluxe Blender,Kitchen,£116.45,acme,
+556,SKU-00556,Mini Hoodie,Clothing,"81,83",Acme,Active
+557,SKU-00557,Smart Football,Sports,105.69,acme,Active
+558,SKU-00558,SMART COOKBOOK,Books,23.06,,
+559,SKU-00559,Smart Face Mask,beauty,,Northwind,
+560,SKU-00560,Ultra Lamp,Home & Kitchen,£96.36,,
+561,SKU-00561,Vintage Mug Set,HOME & KITCHEN,31.18,,discontinued
+562,SKU-00562,Premium Journal,Books,81.74,ACME Ltd,Active
+563,SKU-00563,Eco Knife Set,Home & Kitchen,61.72,ACME Ltd,Active
+564,SKU-00564,Pro Dumbbells  ,SPORTS,£67.92,Initech,active
+565,SKU-00565,Smart Toaster,Home & Kitchen,62.46,Northwind,inactive
+566,SKU-00566,Ultra Atlas  ,Books,34.04,Northwind,DISCONTINUED
+567,SKU-00567,Vintage Hoodie  ,Clothes,47.59,,
+568,SKU-00568,Basic Biography,books,108.79,acme,inactive
+569,SKU-00569,Premium Sunscreen,Beauty,,Northwind,DISCONTINUED
+570,SKU-00570,Deluxe Guidebook,Books,5.43,acme,Active
+571,SKU-00571,Pro Shampoo,Beauty,87.97,Globex,inactive
+572,SKU-00572,Vintage Atlas,Books,£116.77,Globex,discontinued
+573,SKU-00573,Pro Yoga Mat,Sports & Outdoors,14.45,Acme,active
+574,SKU-00574,Mini Smartwatch,Electronics,182.68,,Active
+575,SKU-00575,Pro Guidebook,Books,37.10 GBP,northwind,active
+576,SKU-00576,Classic Charger,Elec.,252.86,Globex,DISCONTINUED
+577,SKU-00577,Mini Sunscreen  ,Beauty & Personal Care,109.29,acme,Active
+578,SKU-00578,Pro Cookbook,BOOKS,97.09,Globex,discontinued
+579,SKU-00579,BASIC PERFUME,Beauty,15.30,,DISCONTINUED
+580,SKU-00580,Mini Lip Balm,beauty,43.08,ACME Ltd,DISCONTINUED
+581,SKU-00581,SMART NOVEL,books,69.60 GBP,ACME Ltd,active
+582,SKU-00582,Eco Water Bottle,sport,105.74,Northwind,discontinued
+583,SKU-00583,Premium Football,Sports & Outdoors,110.51,,inactive
+584,SKU-00584,Eco Journal,books,87.26,ACME Ltd,active
+585,sku00585,Deluxe Speaker,ELECTRONICS,£200.25,ACME Ltd,DISCONTINUED
+586,SKU-00586,Ultra Mug Set,home and kitchen,71.65,Acme,active
+587,SKU-00587,Premium Mouse,Elec.,257.95,acme,discontinued
+588,SKU-00588,Pro Socks,Clothing,£94.17,Acme,inactive
+589,SKU-00589,Pro Face Mask  ,Cosmetics,,ACME Ltd,
+590,sku00590,PREMIUM SCARF,CLOTHING ,100.51,Northwind,
+591,SKU-00591,Mini Yoga Mat,Sports,62.29,,DISCONTINUED
+592,SKU-00592,Vintage Kettle,home and kitchen,77.13,Acme,inactive
+593,SKU-00593,Deluxe Keyboard,electronics,23.29,Northwind,
+594,SKU-00594,Basic Webcam,Electronic,79.55,ACME Ltd,discontinued
+595,SKU-00595,Classic Novel,Book,18.48,Initech,DISCONTINUED
+596,SKU-00596,Pro Pan,Kitchen,61.60,acme,active
+597,SKU-00597,Vintage Moisturiser,Beauty,9.71,Initech,inactive
+598,SKU-00598,Vintage Speaker,electronics,299.32,Acme,DISCONTINUED
+599,sku00599,Mini Football,Sports,4.92,Globex,active
+600,SKU-00600,Eco Lip Balm,Beauty,£102.21,acme,
+601,SKU-00601,Deluxe Blender,Home&Kitchen,96.4,Northwind,inactive
+602,SKU-00602,Ultra Shampoo,Cosmetics,78.46 GBP,,DISCONTINUED
+603,SKU-00603,Eco Resistance Bands,Sports,62.98,northwind,Active
+604,SKU-00604,Eco Face Mask,Beauty,87.20 GBP,Northwind,active
+605,SKU-00605,Premium Jacket,Clothing,"72,69",,DISCONTINUED
+606,SKU-00606,VINTAGE T-SHIRT,clothing,48.32 GBP,northwind,DISCONTINUED
+607,SKU-00607,PREMIUM SMARTWATCH,Electronics,£318.10,,DISCONTINUED
+608,SKU-00608,Basic Jacket,Clothing,£19.60,acme,Active
+609,SKU-00609,Pro Jacket,Clothing,"25,91",ACME Ltd,
+610,SKU-00610,Basic Mug Set,Home & Kitchen,26.94,acme,Active
+611,SKU-00611,Premium Sunscreen,Beauty,73.94,acme,discontinued
+612,SKU-00612,Pro Lamp,Home & Kitchen,18.04,northwind,discontinued
+613,SKU-00613,Smart T-Shirt,Clothing,69.64,,
+614,SKU-00614,Deluxe Headphones,Electronics,177.39 GBP,acme,Active
+615,SKU-00615,Classic Knife Set,Home & Kitchen,,,DISCONTINUED
+616,SKU-00616,Pro Resistance Bands,sport,114.55 GBP,northwind,
+617,SKU-00617,Vintage Dumbbells,sport,53.39,,
+618,SKU-00618,Vintage Mouse,Electronics,323.39,Initech,active
+619,sku00619,Pro Jeans,CLOTHING ,,ACME Ltd,discontinued
+620,SKU-00620,Eco Webcam,Electronics,130.00,,inactive
+621,SKU-00621,Mini Speaker,Electronics,"246,59",Globex,Active
+622,SKU-00622,ECO SOCKS,Clothing,71.69,,inactive
+623,SKU-00623,Premium Headphones,Electronic,63.59,Acme,discontinued
+624,SKU-00624,Smart Yoga Mat,sport,£19.89,Northwind,DISCONTINUED
+625,SKU-00625,Deluxe Yoga Mat,Sports,,Acme,active
+626,SKU-00626,Deluxe Pan,Home & Kitchen,24.28,Acme,DISCONTINUED
+627,SKU-00627,Smart Water Bottle,Sports & Outdoors,£43.92,Acme,discontinued
+628,SKU-00628,Pro Webcam  ,Electronics,29.05,Northwind,discontinued
+629,SKU-00629,Smart Resistance Bands,Sports & Outdoors,77.73,Initech,inactive
+630,SKU-00630,Basic Bike Light,sport,£14.83,Globex,DISCONTINUED
+631,SKU-00631,Pro Hoodie,Clothing,£79.33,Globex,active
+632,SKU-00632,PRO BIOGRAPHY,Books,60.05,Globex,Active
+633,SKU-00633,Ultra Toaster,Home & Kitchen,50.86,Acme,discontinued
+634,SKU-00634,Vintage Knife Set,home and kitchen,58.82,acme,Active
+635,sku00635,Mini Bike Light,sport,£31.78,Initech,DISCONTINUED
+636,SKU-00636,Eco Yoga Mat,Sports,,acme,
+637,sku00637,Deluxe Water Bottle,SPORTS,69.22 GBP,northwind,DISCONTINUED
+638,SKU-00638,Eco Perfume,Beauty,101.62,Globex,
+639,sku00639,Basic Resistance Bands,Sports,95.99,,Active
+640,SKU-00640,Basic Bike Light,Sports,118.33,Acme,inactive
+641,SKU-00641,Premium Kettle  ,Home & Kitchen,3.58,Northwind,inactive
+642,SKU-00642,Premium Keyboard,electronics,"366,36",Initech,inactive
+643,SKU-00643,Classic Jacket,Apparel,101.55,Acme,DISCONTINUED
+644,SKU-00644,Smart Football,sport,64.13,northwind,
+645,SKU-00645,Vintage Speaker,Electronic,268.62 GBP,,Active
+646,SKU-00646,Basic Face Mask,Beauty,"59,77",Initech,discontinued
+647,SKU-00647,ULTRA MOISTURISER,beauty,28.11 GBP,Acme,
+648,SKU-00648,Classic Face Mask,Cosmetics,32.69,Northwind,DISCONTINUED
+649,SKU-00649,Premium T-Shirt,Apparel,40.67,Initech,discontinued
+650,SKU-00650,Classic Yoga Mat,Sports,£28.64,Northwind,Active
+651,SKU-00651,Deluxe Journal,Books,105.76,Globex,Active
+652,SKU-00652,Pro Mouse,electronics,298.44,Initech,
+653,SKU-00653,Pro Lip Balm,Beauty,"11,15",acme,
+654,SKU-00654,Basic T-Shirt,Clothes,99.32 GBP,ACME Ltd,inactive
+655,SKU-00655,Classic Kettle,Home & Kitchen,£73.68,Northwind,discontinued
+656,SKU-00656,Mini Guidebook,books,88.66 GBP,ACME Ltd,
+657,SKU-00657,Vintage Atlas,books,28.28,ACME Ltd,DISCONTINUED
+658,SKU-00658,Mini Trainers,CLOTHING ,25.99 GBP,Globex,active
+659,SKU-00659,Vintage Face Mask,Beauty,£75.97,,discontinued
+660,SKU-00660,Ultra Mug Set,Home & Kitchen,84.54,Globex,discontinued
+661,SKU-00661,Premium Smartwatch,electronics,163.83,northwind,DISCONTINUED
+662,sku00662,Deluxe Socks,CLOTHING ,93.09,Globex,Active
+663,sku00663,Ultra Bike Light,SPORTS,45.15,ACME Ltd,Active
+664,SKU-00664,Classic Atlas,books,26.24 GBP,Globex,
+665,SKU-00665,Vintage Biography,Books,93.17,,Active
+666,SKU-00666,Mini Yoga Mat,Sports & Outdoors,£78.28,,active
+667,SKU-00667,Ultra Face Mask,beauty,£117.61,ACME Ltd,
+668,SKU-00668,Mini Journal,BOOKS,57.23,Acme,active
+669,SKU-00669,Ultra Charger,Electronics,251.14,northwind,active
+670,SKU-00670,Premium Journal,Book,18.76,Northwind,active
+671,SKU-00671,Vintage Shampoo,Beauty & Personal Care,"108,07",Initech,Active
+672,SKU-00672,Smart Keyboard,Elec.,62.86,northwind,DISCONTINUED
+673,SKU-00673,Pro Dumbbells,Sports,"22,51",Acme,inactive
+674,SKU-00674,Classic Pan,Home & Kitchen,£52.76,,DISCONTINUED
+675,SKU-00675,Mini Socks,Clothing,74.19,Northwind,Active
+676,SKU-00676,Classic Headphones,Electronics,268.00,ACME Ltd,DISCONTINUED
+677,SKU-00677,Ultra Journal,BOOKS,"74,46",,inactive
+678,SKU-00678,Basic Mouse,Electronics,£350.95,,DISCONTINUED
+679,SKU-00679,Eco Toaster,Home & Kitchen,89.58,acme,DISCONTINUED
+680,SKU-00680,Basic Dumbbells,sport,47.19,Northwind,Active
+681,sku00681,Ultra Journal,Book,7.28,acme,discontinued
+682,SKU-00682,ECO YOGA MAT,SPORTS,,northwind,discontinued
+683,SKU-00683,Premium Hoodie,CLOTHING ,76.61,Globex,Active
+684,SKU-00684,Basic Mouse,Electronics,£137.79,northwind,inactive
+685,SKU-00685,Classic Webcam,ELECTRONICS,197.97,,Active
+686,SKU-00686,Smart Jeans,Clothing,30.66,,inactive
+687,SKU-00687,Mini Socks,Clothes,44.12,ACME Ltd,
+688,SKU-00688,Smart Headphones,Electronic,219.78,Initech,active
+689,SKU-00689,DELUXE MOUSE,Elec.,£131.82,Acme,
+690,sku00690,Vintage Lip Balm,Beauty,96.07,ACME Ltd,active
+691,SKU-00691,CLASSIC PERFUME  ,Beauty & Personal Care,-8.66,ACME Ltd,
+692,SKU-00692,Ultra Moisturiser,beauty,21.46 GBP,Northwind,active
+693,SKU-00693,Basic Kettle,Home & Kitchen,24.50,acme,discontinued
+694,SKU-00694,Classic Trainers,Clothes,61.49,,Active
+695,SKU-00695,Ultra Trainers,Clothing,118.60,ACME Ltd,Active
+696,sku00696,Mini Smartwatch,Electronics,157.24,Northwind,DISCONTINUED
+697,sku00697,Vintage Toaster,Home & Kitchen,54.03,northwind,
+698,SKU-00698,Classic Guidebook,Books,19.01,Northwind,inactive
+699,SKU-00699,Mini Lip Balm,Beauty,"32,43",,Active
+700,SKU-00700,Smart Charger,ELECTRONICS,267.43,,DISCONTINUED
+701,SKU-00701,Premium Water Bottle,Sports,3.15,ACME Ltd,active
+702,sku00702,PRO BLENDER,Home&Kitchen,£99.22,Acme,DISCONTINUED
+703,SKU-00703,Basic Hoodie,Clothing,7.14,Globex,Active
+704,SKU-00704,Pro Toaster,Home & Kitchen,-93.95,acme,discontinued
+705,SKU-00705,Mini Moisturiser,Cosmetics,40.95,,active
+706,SKU-00706,Deluxe Yoga Mat,Sports,15.31,acme,DISCONTINUED
+707,SKU-00707,Mini Guidebook,Books,£12.13,Initech,active
+708,SKU-00708,ECO JEANS,clothing,-58.11,Acme,DISCONTINUED
+709,SKU-00709,Vintage Biography,Book,39.55,acme,DISCONTINUED
+710,SKU-00710,Smart Jacket  ,Clothing,74.87,Globex,Active
+711,SKU-00711,ECO MUG SET,Home & Kitchen,£52.81,northwind,
+712,SKU-00712,Premium Cookbook,Books,32.16,,active
+713,SKU-00713,Premium T-Shirt,Clothing,51.70,Initech,inactive
+714,SKU-00714,Premium Knife Set,Home & Kitchen,£33.33,ACME Ltd,active
+715,SKU-00715,Pro Jacket,Clothes,73.13,Northwind,active
+716,SKU-00716,Deluxe Water Bottle,Sports,78.55,Acme,discontinued
+717,SKU-00717,Smart Resistance Bands,Sports & Outdoors,"49,92",,inactive
+718,SKU-00718,Basic Webcam,Electronics,199.77,northwind,
+719,sku00719,Basic Yoga Mat,Sports & Outdoors,80.98,ACME Ltd,active
+720,SKU-00720,Classic Bike Light,Sports,29.07,,
+721,SKU-00721,Eco Yoga Mat,Sports,"16,71",,
+722,SKU-00722,Pro Perfume,Cosmetics,72.24,ACME Ltd,Active
+723,SKU-00723,Premium Biography,Books,38.75,acme,active
+724,SKU-00724,Deluxe Headphones,Electronic,148.95,,Active
+725,sku00725,Pro Sunscreen,Cosmetics,3.33,Globex,active
+726,sku00726,Pro Dumbbells,Sports,£88.24,ACME Ltd,discontinued
+727,SKU-00727,VINTAGE LAMP,Home & Kitchen,"41,55",acme,inactive
+728,sku00728,Classic Football,Sports & Outdoors,£69.52,Initech,inactive
+729,SKU-00729,Vintage Dumbbells,sport,£16.50,Northwind,active
+730,SKU-00730,Eco Perfume,Beauty,£27.15,,
+731,SKU-00731,Mini Hoodie,Apparel,£89.44,,discontinued
+732,SKU-00732,Deluxe Headphones,Electronics,382.44,Initech,inactive
+733,sku00733,Mini Journal,Books,56.87 GBP,ACME Ltd,
+734,SKU-00734,Classic Journal,Books,"91,64",Acme,discontinued
+735,SKU-00735,Pro Football,Sports,£107.70,Initech,inactive
+736,SKU-00736,Classic Kettle,Home&Kitchen,105.48,Initech,DISCONTINUED
+737,SKU-00737,Basic Bike Light,SPORTS,104.63,northwind,active
+738,SKU-00738,Vintage Lamp,Home & Kitchen,-54.97,Northwind,discontinued
+739,SKU-00739,Vintage Face Mask,Beauty,£99.92,Globex,inactive
+740,SKU-00740,ULTRA RESISTANCE BANDS,Sports,48.08,Globex,
+741,SKU-00741,Deluxe Trainers,Clothes,"7,10",Initech,inactive
+742,SKU-00742,Classic Speaker,Electronics,286.91,acme,discontinued
+743,SKU-00743,Mini Resistance Bands,Sports,-3.85,Acme,DISCONTINUED
+744,SKU-00744,Deluxe Resistance Bands,SPORTS,19.22,Initech,Active
+745,SKU-00745,SMART JACKET,Clothes,37.85,Initech,Active
+746,SKU-00746,Ultra Mouse,electronics,107.88,,inactive
+747,SKU-00747,Premium Jeans,Clothes,18.92,Globex,DISCONTINUED
+748,sku00748,Ultra Lip Balm,Beauty & Personal Care,86.72,Initech,Active
+749,SKU-00749,Premium Lamp,Kitchen,67.45,Acme,Active
+750,sku00750,Premium Biography,Books,21.03,Northwind,discontinued
+751,SKU-00751,Pro Cookbook,Books,43.94,northwind,inactive
+752,SKU-00752,Ultra Kettle,Home&Kitchen,52.11,northwind,Active
+753,SKU-00753,Mini Charger,Elec.,134.67,northwind,DISCONTINUED
+754,SKU-00754,Vintage Lip Balm,Beauty,43.35,northwind,Active
+755,SKU-00755,Pro Webcam,Electronics,245.40,,active
+756,SKU-00756,Smart Keyboard,Electronic,"166,38",northwind,discontinued
+757,SKU-00757,Basic Sunscreen,Beauty & Personal Care,100.64,,discontinued
+758,SKU-00758,Ultra Lamp,Home & Kitchen,63.24 GBP,,DISCONTINUED
+759,SKU-00759,Smart Resistance Bands,Sports,61.92,Acme,discontinued
+760,SKU-00760,Ultra Speaker,Electronics,257.38,Globex,Active
+761,SKU-00761,Smart Trainers,Clothes,54.77,acme,Active
+762,SKU-00762,Pro Bike Light,Sports,9.96,Acme,DISCONTINUED
+763,SKU-00763,Ultra Blender,Home & Kitchen,59.20,acme,DISCONTINUED
+764,SKU-00764,Ultra Face Mask,Beauty,14.02,Northwind,active
+765,SKU-00765,Basic Knife Set  ,Home & Kitchen,"50,62",,discontinued
+766,SKU-00766,Premium Water Bottle,Sports,62.81,,discontinued
+767,SKU-00767,Vintage Cookbook,BOOKS,37.31,Initech,Active
+768,SKU-00768,Smart Mug Set,Kitchen,72.22,Globex,active
+769,SKU-00769,VINTAGE PAN,HOME & KITCHEN,48.03,ACME Ltd,active
+770,SKU-00770,PRO SPEAKER,Elec.,36.35,Globex,active
+771,SKU-00771,Pro Speaker,Electronics,24.40,,active
+772,SKU-00772,Deluxe Biography,books,31.87,Globex,discontinued
+773,sku00773,Mini Resistance Bands  ,Sports,63.88,acme,
+774,SKU-00774,Mini Lamp,home and kitchen,-97.13,acme,inactive
+775,SKU-00775,Basic Journal,BOOKS,19.16,,DISCONTINUED
+776,sku00776,Premium Dumbbells,Sports & Outdoors,90.32,,Active
+777,SKU-00777,Eco Toaster,Home & Kitchen,48.86,,DISCONTINUED
+778,sku00778,Ultra Atlas,books,85.36,Initech,inactive
+779,SKU-00779,Eco Mouse,ELECTRONICS,30.79,Initech,Active
+780,SKU-00780,Deluxe Socks,Clothing,105.26,Initech,inactive
+781,SKU-00781,PRO MOISTURISER  ,Beauty & Personal Care,31.05 GBP,Globex,active
+782,SKU-00782,Basic Cookbook,books,39.64 GBP,ACME Ltd,inactive
+783,SKU-00783,Basic Pan,Home & Kitchen,67.40,acme,discontinued
+784,sku00784,Classic Jacket,Clothing,103.19,acme,discontinued
+785,SKU-00785,Classic Cookbook,Books,63.12,Northwind,DISCONTINUED
+786,sku00786,SMART KEYBOARD,Electronics,135.78,acme,Active
+787,SKU-00787,Pro Speaker,Elec.,361.02,Initech,Active
+788,SKU-00788,Deluxe Perfume,Cosmetics,93.99,Initech,Active
+789,SKU-00789,Eco Hoodie,Clothing,£3.34,Globex,active
+790,SKU-00790,Deluxe Guidebook,BOOKS,79.92,Acme,
+791,SKU-00791,Eco Socks,Clothing,44.96 GBP,,inactive
+792,SKU-00792,Classic Face Mask,Beauty & Personal Care,72.06,,DISCONTINUED
+793,SKU-00793,Smart Mug Set,Home & Kitchen,,,DISCONTINUED
+794,SKU-00794,Smart Yoga Mat,Sports,,northwind,active
+795,sku00795,Vintage Lamp,Home&Kitchen,67.89 GBP,acme,Active
+796,SKU-00796,Ultra Football,Sports,39.62,ACME Ltd,DISCONTINUED
+797,SKU-00797,Deluxe Webcam,Electronics,387.93,acme,inactive
+798,SKU-00798,Deluxe Charger  ,ELECTRONICS,44.45,Acme,active
+799,sku00799,Smart Football,Sports,97.77 GBP,Northwind,inactive
+800,SKU-00800,Premium Mug Set,HOME & KITCHEN,24.80 GBP,Northwind,inactive
+549,sku00549,Basic Lamp,home and kitchen,74.36,,
+590,sku00590,PREMIUM SCARF,CLOTHING ,100.51,Northwind,
+661,SKU-00661,Premium Smartwatch,electronics,163.83,northwind,DISCONTINUED
+194,sku00194,MINI FACE MASK,Cosmetics,54.40,Initech,Active
+429,SKU-00429,Vintage Keyboard,ELECTRONICS,278.85,Acme,Active
+523,SKU-00523,Ultra Knife Set,Kitchen,"119,96",,
+442,SKU-00442,Mini Jacket,CLOTHING ,28.13,ACME Ltd,
+333,SKU-00333,Basic Face Mask,beauty,108.97,Globex,Active
+372,sku00372,Basic Water Bottle,Sports,13.84,northwind,inactive
+4,SKU-00004,Deluxe Keyboard,Elec.,233.97,northwind,inactive
+303,SKU-00303,Ultra Socks,Clothing,"16,94",,DISCONTINUED
+521,SKU-00521,Premium Water Bottle,sport,"57,87",Initech,discontinued
+545,SKU-00545,Ultra Moisturiser,Beauty,£12.98,northwind,inactive
+339,SKU-00339,Premium Smartwatch,Electronics,155.41,Acme,Active
+452,SKU-00452,Mini Dumbbells,sport,49.66,acme,discontinued
+642,SKU-00642,Premium Keyboard,electronics,"366,36",Initech,inactive
+635,sku00635,Mini Bike Light,sport,£31.78,Initech,DISCONTINUED
+726,sku00726,Pro Dumbbells,Sports,£88.24,ACME Ltd,discontinued
+145,SKU-00145,Eco Pan,Kitchen,"16,35",ACME Ltd,discontinued
+13,SKU-00013,CLASSIC NOVEL,Books,69.33,,inactive
+177,SKU-00177,Ultra Lamp,Home & Kitchen,56.32,,DISCONTINUED
+387,SKU-00387,Mini Trainers,Apparel,102.85,Globex,inactive
+440,SKU-00440,Eco Mouse,Electronics,£165.15,,
+257,SKU-00257,Pro Resistance Bands  ,Sports,11.02 GBP,Acme,Active
+552,sku00552,Vintage Blender,Home&Kitchen,18.56,Globex,Active
